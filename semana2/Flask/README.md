@@ -21,3 +21,7 @@ pip install Flask
 deactivate
 ```
 
+## Postgresql
+#Crear base de datos
+```
+CREATE DATABASE nombre_bd
